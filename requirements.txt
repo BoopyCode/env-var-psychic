@@ -1,0 +1,2 @@
+# No dependencies! The psychic works with pure Node.js magic.
+# (But you might want to add this to your package.json scripts)
